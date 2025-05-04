@@ -14,7 +14,7 @@ This will open the Streamlit app in your browser.
 
 ## 🖼 Screenshot
 
-![App Screenshot](https://github.com/user-attachments/assets/5105973e-2ae8-4bc9-a571-57cfc661bdc7)
+![Image](https://github.com/user-attachments/assets/fd7e3c22-fd6e-4bd9-bf07-50e5c15544c4)
 
 
 ---
